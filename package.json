@@ -1,0 +1,20 @@
+{
+  "name": "es6-sampelcode",
+  "version": "1.0.0",
+  "description": "![The cover of JavaScript: The Definitive Guide](smallcover.jpg)",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwpcgn/es6-sampelcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwpcgn/es6-sampelcode/issues"
+  },
+  "homepage": "https://github.com/nwpcgn/es6-sampelcode#readme"
+}
