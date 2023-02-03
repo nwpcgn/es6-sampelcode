@@ -15,3 +15,6 @@ function isArrayLike(o) {
         return false;                   // Otherwise it is not.
     }
 }
+
+let o = {"0": "1", "1": "2", "2": "3", length: 3}
+console.log(isArrayLike(o))
