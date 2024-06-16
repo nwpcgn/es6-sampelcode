@@ -34,4 +34,6 @@
   NodeList.prototype.__proto__ = Array.prototype;
 
   init();
+  
+  console.log("fghjkfghjk")
 }
